@@ -243,7 +243,7 @@ Modelo Físico: https://github.com/CookIncBD2/Trabalho01/blob/master/Modelo_Fisi
         c) fontes de estudo para desenvolvimento do projeto - Aulas de BD, moodle de BD (arquivos em PDF) e https://pt.stackoverflow.com/
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-<br>
+
 https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/Script_Criacao_CookInc.sql
 <br>
 <br>
