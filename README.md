@@ -20,7 +20,8 @@ Sergio Vago: sergio.vago@hotmail.com <br>
  
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/mockup_exemplo_cook_inc.png?raw=true "MOCKUP")
+PDF:https://github.com/CookIncBD2/Trabalho01/blob/master/mockup/mockup_cook_inc_finalizado.pdf <br>
+![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/mockup/mockup_exemplo_cook_inc.png?raw=true "MOCKUP")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
