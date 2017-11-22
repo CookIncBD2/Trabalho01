@@ -243,13 +243,10 @@ Modelo Físico: https://github.com/CookIncBD2/Trabalho01/blob/master/Modelo_Fisi
         c) fontes de estudo para desenvolvimento do projeto - Aulas de BD, moodle de BD (arquivos em PDF) e https://pt.stackoverflow.com/
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        https://github.com/CookIncBD2/Trabalho01/blob/master/Script_Criacao_CookInc.sql
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        https://github.com/CookIncBD2/Trabalho01/blob/master/Inserts_CookInc.sql
-        c) inclusão das instruções para execução de outros procedimentos necessários
-        https://github.com/CookIncBD2/Trabalho01/blob/master/Alteracoes_CookInc.sql
-        
+<br>
+https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/Script_Criacao_CookInc.sql
+<br>
+<br>
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS <br>
