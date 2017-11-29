@@ -8,8 +8,8 @@ Isabella de Assis: ifoxpoetic@gmail.com <br>
 Sergio Vago: sergio.vago@hotmail.com <br>
   
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    Este trabalho está sendo desenvolvido na disciplina de Banco de Dados junto as disciplinas de Análise de Projeto e Sistemas (APS) e Linguagem de Programação do curso Técnico de informática do IFES - Campus Serra. 
-&nbsp;&nbsp;&nbsp;&nbsp;    Nossa ideia surgiu a partir de nosso contexto social, onde a Isabella, integrante do grupo, sugeriu a criação de um site onde haveria a busca por receitas de modo simples e prático. A partir disso, começamos a desenvolver nossa ideia e pensamos em um diferencial: a busca de receitas por palavras-chave e tags. 
+&nbsp;&nbsp;&nbsp;&nbsp;Este trabalho está sendo desenvolvido na disciplina de Banco de Dados junto as disciplinas de Análise de Projeto e Sistemas (APS) e Linguagem de Programação do curso Técnico de informática do IFES - Campus Serra. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    Nossa ideia surgiu a partir de nosso contexto social, onde a Isabella, integrante do grupo, sugeriu a criação de um site onde haveria a busca por receitas de modo simples e prático. A partir disso, começamos a desenvolver nossa ideia e pensamos em um diferencial: a busca de receitas por palavras-chave e tags. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;    A nossa motivação, além da sede por aprendizado, é a obtenção de nota para aprovação na disciplina. O site basea-se, basicamente, em um sistema de cadastro e envio de receitas, uma interação simples entre os usuários e o sistema de busca de receitas por palavras-chave. <br>
 
   
