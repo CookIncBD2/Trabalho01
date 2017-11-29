@@ -14,7 +14,7 @@ Sergio Vago: sergio.vago@hotmail.com <br>
 
   
 ### 3.MINI-MUNDO<br>
-&nbsp;&nbsp;&nbsp;&nbsp;A Cook Inc é um site de receitas com um gigante banco de dados capaz de guardar uma infinidade de possíveis combinações de ingredientes e receitas para que o usuário não fique restrito às costumeiras "receitas da vovó". <br>
+&nbsp;&nbsp;&nbsp;&nbsp;A Cook Inc. é um site de receitas com um gigante banco de dados capaz de guardar uma infinidade de possíveis combinações de ingredientes e receitas para que o usuário não fique restrito às costumeiras "receitas da vovó". <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Seu potencial e grande diferencial começa na filtragem de receitas por palavras-chave através da ferramenta de pesquisas buscando as que melhor atendem à busca do usuário. O site também dispõe de um ranking semanal que é exibido na página principal, propondo assim, à quem não tem nenhuma procura específica, uma proposta de receita que está em alta. <br>
  
 
