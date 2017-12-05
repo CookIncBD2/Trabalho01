@@ -43,7 +43,7 @@ b)
 
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/Modelos/modelo_conceitual_foto.PNG?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/Modelos/Conceitual_CookInc.png?raw=true "Modelo Conceitual")
 
 
 #### 5.1 Validação do Modelo Conceitual
@@ -230,7 +230,7 @@ b)
 ![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/Modelos/Logico_CookInc.png?raw=true "Modelo Lógico")
 
 ### 7	MODELO FÍSICO<br>
-Modelo Físico: https://github.com/CookIncBD2/Trabalho01/blob/master/Modelo_Fisico_CookInc.sql
+Modelo Físico: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/Script_Criacao_CookInc.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
