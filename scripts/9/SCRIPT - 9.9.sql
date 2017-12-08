@@ -1,14 +1,17 @@
 use cookinc;
 
 #9.9	CONSULTAS COM SELF JOIN E VIEW 
+create view seguidores as
 select u1.id_usuario,u1.nome_completo as Seguidor, u2.id_usuario,u2.nome_completo as Seguido from usuario u1
 inner join segue
 on(FK_USUARIO_id_usuario=u1.id_usuario)
 inner join usuario u2
 on(FK_USUARIO_id_usuario_=u2.id_usuario);
 
+select * from seguidores;
 
-drop view sexo_mais_cadastrado;
+
+
 create view sexo_mais_cadastrado as
 select tipo,count(*) as qnt_sexo from sexo
 inner join usuario
