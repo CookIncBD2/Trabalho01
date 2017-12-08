@@ -587,7 +587,7 @@ where porcoes >10); <br>
 
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-SLIDES: https://github.com/CookIncBD2/Trabalho01/blob/master/Slide_CookInc.odp 
+SLIDES: https://github.com/CookIncBD2/Trabalho01/blob/master/COOK%20INC%20SLIDES.pptm
 <br>
 <br>    
 
