@@ -337,11 +337,12 @@ where FK_SEXO_id_sexo=0; <br>
 
 select id_usuario,nome_completo from usuario
 where FK_ENDERECO_id_endereco=5; <br>
-![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/imagens/9.2/3.PNG ?raw=true) <br><br>
+![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/imagens/9.2/3.PNG?raw=true) <br><br>
 
 <br>
 <br>
 <br>
+
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS <br>
 SCRIPT:https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.3.sql <br>
 
@@ -354,6 +355,7 @@ where id_usuario=0 OR FK_ENDERECO_id_endereco=8; <br>
 <br>
 <br>
 <br>
+
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.4.sql <br>
 
@@ -372,6 +374,7 @@ where nome like '%z%'; <br>
 <br>
 <br>
 <br>
+
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.5.sql <br>
 
@@ -427,6 +430,7 @@ select id_rec,nome,FK_TEMPO_DE_PREPARO_id_tempo from receita; <br>
 <br>
 <br>
 <br>
+
 #### 9.6	CONSULTAS COM JUNÇÃO <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.6.sql <br>
 
@@ -460,6 +464,7 @@ left outer join favorito fav on(fav.FK_USUARIO_id_usuario = id_usuario); <br>
 <br>
 <br>
 <br>
+
 #### 9.7	CONSULTAS COM GROUP BY <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.7.sql <br>
 
@@ -486,6 +491,7 @@ group by FK_USUARIO_id_usuario_; <br>
 <br>
 <br>
 <br>       
+
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.8.sql <br>
 
@@ -512,6 +518,7 @@ on(FK_COMENTARIO_id_coment=id_coment);<br>
 <br>
 <br>
 <br>
+
 #### 9.9	CONSULTAS COM SELF JOIN E VIEW <br>
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.9.sql <br>
 create view seguidores as <br>
@@ -543,11 +550,12 @@ inner join tipo_voto tv <br>
 on (v.FK_TIPO_VOTO_id = tv.id) <br>
 group by r.id_rec; <br>
 
-select * from visualiza_votos;
+select * from visualiza_votos; <br>
 ![Alt text](https://github.com/CookIncBD2/Trabalho01/blob/master/imagens/9.9/3.PNG?raw=true) <br><br>
 <br>
 <br>
 <br>
+
 #### 9.10	SUBCONSULTAS 
 SCRIPT: https://github.com/CookIncBD2/Trabalho01/blob/master/scripts/9/SCRIPT%20-%209.10.sql <br>
 select nome_completo from usuario  <br> 
@@ -574,12 +582,15 @@ where porcoes >10); <br>
 <br>
 <br>
 <br>
+
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
 SLIDES: https://github.com/CookIncBD2/Trabalho01/blob/master/Slide_CookInc.odp 
 <br>
 <br>    
+
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 #### Link para BrModelo:
